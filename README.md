@@ -6,12 +6,12 @@
 <div id="post_detail">
 <div id="topics">
 <div class="post">
-<h1 class="postTitle" style="text-align: center;">&nbsp;</h1>
+<h1 class="postTitle" style="text-align: center;"><img style="vertical-align: middle;" src="https://pics.images.ac.cn/image/5ebbed8adce52.html" alt="" width="632" height="199" /></h1>
 <h1 class="postTitle" style="text-align: center;">软件目录</h1>
 <div class="clear">&nbsp;</div>
 <div class="postBody">
 <div id="cnblogs_post_body" class="blogpost-body ">
-<p align="center">软件导航</p>
+<p align="center">CC的7788</p>
 <table style="width: 567px; height: 178px;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
